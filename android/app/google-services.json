@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878853515855",
+    "project_id": "city-guide-kigali",
+    "storage_bucket": "city-guide-kigali.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878853515855:android:7ec3e5bc5677fa1a2c183a",
+        "android_client_info": {
+          "package_name": "com.example.city_guide_kigali"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABtiJENftx-1asbE60vlpZCr6eiypmjcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
