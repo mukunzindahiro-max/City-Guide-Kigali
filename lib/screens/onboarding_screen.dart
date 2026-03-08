@@ -16,7 +16,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
   final List<_OnboardingPage> _pages = const [
     _OnboardingPage(
       icon: Icons.location_city_rounded,
-      title: 'Discover Kigali',
+      title: 'Kigali Trails',
       description:
           'Explore the best restaurants, hotels, attractions, and hidden gems across the City of Kigali.',
     ),
