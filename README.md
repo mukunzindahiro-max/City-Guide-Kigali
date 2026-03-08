@@ -32,6 +32,21 @@ A mobile city guide application for discovering and sharing places in Kigali, Rw
 | External Links     | url_launcher                      |
 | Local Storage      | shared_preferences                |
 
+## screens
+<p align="center">
+  <img width="200" src="https://github.com/user-attachments/assets/b84bce93-f9eb-4b53-8499-f963172bd931" />
+  <img width="200" src="https://github.com/user-attachments/assets/3fdf69f8-f8aa-48e7-b3df-00f8dfff37fc" />
+  <img width="200" src="https://github.com/user-attachments/assets/5b5f2416-f9db-40b8-89de-49e6d6ba4d84" />
+  <img width="200" src="https://github.com/user-attachments/assets/084cb983-1c43-4339-bfd0-5e78030489f1" />
+  <img width="200" src="https://github.com/user-attachments/assets/ec38b566-2d8c-4f9a-8a63-1acb2f7d0d41" />
+</p>
+<p align="center">
+  <img width="200" src="https://github.com/user-attachments/assets/9785e5ec-9e4b-4099-947f-28d65be441c5" />
+  <img width="200" src="https://github.com/user-attachments/assets/7455ed9a-e425-45e1-be89-d66e84932651" />
+  <img width="200" src="https://github.com/user-attachments/assets/7cf189e9-e790-47b9-b530-bd809ed5e7c6" />
+  <img width="200" src="https://github.com/user-attachments/assets/a2e1cb61-47d6-4456-97a4-6166ac5c1061" />
+</p>
+
 ## Project Structure
 
 ```
