@@ -85,7 +85,7 @@ lib/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/city_guide_kigali.git
+   git clone https://github.com/mukunzindahiro-max/City-Guide-Kigali
    cd city_guide_kigali
    ```
 
